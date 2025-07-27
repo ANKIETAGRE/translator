@@ -1,0 +1,17 @@
+langchain
+ipykernel
+langchain_community
+langchain-google-genai
+streamlit
+load-dotenv
+langchain_groq
+fastapi 
+uvicorn
+langserve
+sse_starlette
+bs4
+langchain_huggingface
+sentence-transformers
+transformers
+huggingface_hub
+pypdf
